@@ -1,7 +1,6 @@
 
 
 
-
 # TagLens
 
 TagLens is a cloud-based photo album app with AI-powered tagging, built on a secure, scalable AWS serverless architecture.
@@ -24,9 +23,8 @@ TagLens provides a modern web interface for uploading, searching, and sharing ph
 - **Frontend**: HTML, CSS, JS (AJAX forms, tag display)
 - **Backend**: PHP (AWS SDK integration, routing, authentication)
 - **AWS Services**: S3, Rekognition, DynamoDB, Lambda, CloudFront, Cognito, SNS
-<p align="center">
-	<img src="TagLens.png" alt="TagLens Logo" style="max-width:300px;">
-</p>
+![TagLens](TagLens.png)
+
 ## Architecture Overview
 
 ```
