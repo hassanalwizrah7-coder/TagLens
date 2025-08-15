@@ -1,0 +1,8 @@
+body { font-family: Arial, sans-serif; background: #f7f7fa; margin: 0; padding: 0; }
+header { background: #4f8ef7; color: #fff; padding: 1em; text-align: center; }
+.container { max-width: 600px; margin: 2em auto; background: #fff; border-radius: 8px; box-shadow: 0 2px 8px #ddd; padding: 2em; }
+input[type="file"] { margin-bottom: 1em; }
+button { background: #4f8ef7; color: #fff; border: none; padding: 0.5em 1.5em; border-radius: 4px; cursor: pointer; }
+button:hover { background: #357ae8; }
+.tags { margin-top: 1em; }
+.tag { display: inline-block; background: #e0e7ff; color: #333; border-radius: 3px; padding: 0.2em 0.7em; margin: 0 0.3em 0.3em 0; font-size: 0.95em; }
